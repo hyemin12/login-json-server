@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": "hyemin",
+      "password": "1234"
+    },
+    {
+      "id": "user",
+      "password": "0000"
+    }
+  ]
+}
